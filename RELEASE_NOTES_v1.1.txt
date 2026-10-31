@@ -1,0 +1,7 @@
+Horsewaves CAN Studio v1.1
+- Added CAN Intelligence cycle-time statistics endpoint and UI tab.
+- Added periodic transmit backend API.
+- Added bounded in-memory logger (200,000 frames).
+- Added run_web.sh and run_desktop.sh orchestration launchers.
+- User guide delivered separately as PDF.
+- Scope remains Classic CAN; see README for limitations.
